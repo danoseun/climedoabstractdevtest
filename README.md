@@ -5,6 +5,6 @@
 
 ## IMPROVEMENTS
 - Authentication and Authorization could have been added with JWT/sessions.
-- More tests could have been 
+- More tests could have been written.
 - Error logging could be better for production based code
 - More validations could have been considered as well
